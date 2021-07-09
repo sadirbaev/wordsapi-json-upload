@@ -1,0 +1,8 @@
+{
+  "filename": "wordsapi_sample.json",
+  "elasticsearch": {
+    "host": "192.168.100.54",
+    "port": "9200",
+    "index": "words4"
+  }
+}
